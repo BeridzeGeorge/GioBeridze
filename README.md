@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Giorgi-B
+- 👋 Hi, I’m @Giorgi Beridze
 - 👀 I’m interested in Python , Network Automation
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
